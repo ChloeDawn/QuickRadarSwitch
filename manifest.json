@@ -1,0 +1,9 @@
+{
+  "name": "Quick_Radar_Switch",
+  "description": "A mod for Lethal Company that allows for switching the radar target in the terminal with keybinds.",
+  "version_number": "1.0.0",
+  "dependencies": [
+      "Rune580-LethalCompany_InputUtils-0.6.3"
+  ],
+  "website_url": "https://github.com/ChloeDawn/QuickRadarSwitch"
+}
